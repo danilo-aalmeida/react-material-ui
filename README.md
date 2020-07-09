@@ -30,6 +30,6 @@
 
 ## Licença 
 
-The [MIT License](https://github.com/danilo-aalmeida/tindev/blob/master/LICENSE) (MIT)
+The [MIT License](https://github.com/danilo-aalmeida/react-material-ui/blob/master/LICENSE) (MIT)
 
 Copyright :copyright: 2020 - TinDev
